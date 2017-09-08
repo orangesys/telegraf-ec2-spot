@@ -2,4 +2,4 @@
 
 telegraf ec2 spot duration
 
-send spot instances duration to influxdb with [spot-duration](telegraf-ec2-spot/spot-durtaion)
+send spot instances duration to influxdb with [spot-duration](https://github.com/orangesys/telegraf-ec2-spot/tree/master/spot-duration)
