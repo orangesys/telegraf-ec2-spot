@@ -149,8 +149,8 @@
             }
           ],
           "thresholds": [],
-          "timeFrom": "5m",
-          "timeShift": "5m",
+          "timeFrom": null,
+          "timeShift": null,
           "title": "Spot Instances Duration",
           "tooltip": {
             "shared": true,
@@ -241,7 +241,7 @@
     ]
   },
   "time": {
-    "from": "now-6h",
+    "from": "now-12h",
     "to": "now"
   },
   "timepicker": {
@@ -271,5 +271,5 @@
   },
   "timezone": "",
   "title": "Spot Instances Duration",
-  "version": 10
+  "version": 12
 }
